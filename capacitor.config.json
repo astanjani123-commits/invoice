@@ -1,0 +1,8 @@
+{
+  "appId": "com.invoice.app",
+  "appName": "Invoice App",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
